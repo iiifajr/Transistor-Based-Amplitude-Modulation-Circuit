@@ -83,8 +83,13 @@ To upgrade this simulated educational architecture into a high-stability, field-
 
 ## 👥 Project Team & Affiliation
 
-* **Lead Engineer:** Eng. Fajr Aldajani
-* **Collaboration:** Developed in collaboration with a fellow engineering student
-* **Course:** Communication Systems
+* **Eng. Fajr Aldajani**
+  * 🔗 [GitHub Profile](https://github.com/engfajr)
+
+* **Eng. Zain Hani**
+  * 🔗 [GitHub Profile](https://github.com/user)
+
+---
+* **Course:** Electronics
 * **Affiliation:** Taif University
 * **Project Status:** Completed Successfully! 🚀
