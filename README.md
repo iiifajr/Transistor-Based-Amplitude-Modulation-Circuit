@@ -84,7 +84,7 @@ To upgrade this simulated educational architecture into a high-stability, field-
 ## 👥 Project Team & Affiliation
 
 * **Eng. Fajr Aldajani**
-  * 🔗 [GitHub Profile](https://github.com/engfajr)
+  * 🔗 [GitHub Profile](https://github.com/iiifajr)
 
 * **Eng. Zain Hani**
   * 🔗 [GitHub Profile](https://github.com/user)
